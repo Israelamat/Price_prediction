@@ -1,6 +1,6 @@
-# btc_prediction_project
+# price_prediction_project
 
-Project for predicting Bitcoin (BTC) price using historical data and machine learning techniques.
+Project for predicting best assets price using historical data and machine learning techniques.
 
 ---
 
